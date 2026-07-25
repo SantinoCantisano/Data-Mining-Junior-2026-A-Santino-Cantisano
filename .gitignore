@@ -1,0 +1,35 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Datos (no subir el dataset original ni predicciones intermedias)
+*.csv.gz
+*.csv
+*.txt
+*.bin
+*.rds
+
+# Excepciones: sí subir estos archivos de documentación
+!README.md
+!RESULTS.md
+!requirements.md
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Outputs de los experimentos (regenerables)
+kaggle/
+kaggle_ensemble/
+kaggle_final/
+semillas/
+bo_history*.txt
+prediccion*.txt
+probs_por_semilla*.txt
+bo_result.rds
+
+# Sistema
+.DS_Store
+*.log
