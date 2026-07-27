@@ -11,7 +11,7 @@ Predicción de bajas de Paquete Premium (BAJA+2) para el mes de noviembre 2021, 
 - Corte: 2000 envíos
 - Sd entre cortes: 0.94 (la menor de los ensembles no-triviales probados)
 
-Justificación de la elección: alineamiento con las recomendaciones del profesor Denicolay en las slides `0899_ComoElegirMejorModelo_2026A`. El submit maximiza reducción de varianza (semillerío k=100 = máximo posible con recursos disponibles) sobre un pipeline con HP validados por test de Wilcoxon pareado.
+Justificación de la elección: alineamiento con las recomendaciones del profesor a lo largo de la materia. El submit maximiza reducción de varianza (semillerío k=100 = máximo posible con recursos disponibles) sobre un pipeline con HP validados por test de Wilcoxon pareado.
 
 ## Estructura del repo
 
