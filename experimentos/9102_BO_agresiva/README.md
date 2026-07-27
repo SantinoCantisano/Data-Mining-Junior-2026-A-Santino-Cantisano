@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Reemplazar el Grid Search del 9101 por Bayesian Optimization con bounds amplios, siguiendo la guía del profesor Denicolay sobre HP a optimizar y sus rangos teóricos.
+Reemplazar el Grid Search del 9101 por Bayesian Optimization con bounds amplios, siguiendo la guía del profesor sobre HP a optimizar y sus rangos teóricos.
 
 ## Cambio respecto al 9101
 
